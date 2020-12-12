@@ -1,2 +1,4 @@
-a=0x7fffffff
-print(a)
+a='abcdef'
+
+b='a'
+print(b in a)
